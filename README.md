@@ -27,6 +27,9 @@ https://user-images.githubusercontent.com/74530990/170183380-c8cda092-a6c8-4074-
 
 3. Jalankan repo ini -> fork(opsional) -> clone dan run command berikut di terminal: 
 ~~~
+go get github.com/Unleash/unleash-client-go/v3
+~~~
+~~~
 go run main/main.go
 ~~~
 
